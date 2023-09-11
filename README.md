@@ -42,6 +42,7 @@ Key Components of the Code:
 
 7.**Dense Block** : The dense_block function defines a block of densely connected layers. Each dense layer contributes to the growth of feature maps, promoting feature reuse.
 
+<img src="https://github.com/Mukhriddin19980901/DenseNet/blob/main/denseblock.png" width="1000" height="500" />
 
 <img src="https://github.com/Mukhriddin19980901/DenseNet/blob/main/GIFS.gif" width="1000" height="500" />
  
