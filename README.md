@@ -1,6 +1,6 @@
 # DenseNet (Densely Connected Convolutional Network) Architecture
 
-<img src="https://github.com/Mukhriddin19980901/DenseNet/blob/main/dense.png" width="300" height="300" />
+<img src="https://github.com/Mukhriddin19980901/DenseNet/blob/main/dense.png" width="700" height="300" />
 
 
 ***DenseNet*** is a deep neural network architecture designed for ***image classification*** tasks. It is characterized by its dense connectivity pattern, where each layer is connected to every other layer in a feed-forward fashion.The code defines a modified version of the ***DenseNet*** architecture, specifically the ***DenseNet-121*** variant.
