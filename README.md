@@ -31,7 +31,11 @@ Key Components of the Code:
 
 7.**Dense Block** : The dense_block function defines a block of densely connected layers. Each dense layer contributes to the growth of feature maps, promoting feature reuse.
 
+<img src="https://github.com/Mukhriddin19980901/DenseNet/blob/main/denseblock.png" width="1000" height="500" />
+
 8.**Transition Layer**: The transition_layer function reduces the spatial dimensions and complexity of feature maps by using *1x1* convolutions and average pooling.
+
+<img src="https://github.com/Mukhriddin19980901/DenseNet/blob/main/transitionb.png" width="1000" height="500" />
 
 9.**Dropout**: Dropout layers are included with configurable dropout rates to prevent overfitting.
 
