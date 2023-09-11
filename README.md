@@ -8,9 +8,10 @@
   DenseNet introduced a novel connectivity pattern in convolutional neural networks (CNNs), where each layer was densely connected to every other layer in a feed-forward fashion. This dense connectivity facilitated feature reuse and improved the flow of gradients during training, resulting in highly efficient and accurate models.
 
    The DenseNet architecture has since become widely adopted in computer vision tasks and has had a significant impact on the field of deep learning.***DenseNet-121***  is the original DenseNet architecture with 121 layers. It is commonly used for image classification tasks and is known for its efficient use of parameters.Here are some comparisons with ***ResNet***.
+   
 
 
-<img src="https://github.com/Mukhriddin19980901/DenseNet/blob/main/compare.png" width="1000" height="500" />
+    <img src="https://github.com/Mukhriddin19980901/DenseNet/blob/main/compare.png" width="1000" height="500" />
 
 
    It is evident that despite having fewer parameters, the DenseNet model exhibits notably lower validation errors compared to the ResNet model, which also has an equal parameter count. These experiments were conducted with hyperparameters optimized for ResNet, as per the authors' configuration. However, the authors suggest that, with thorough hyperparameter tuning, DenseNet is expected to deliver even better performance.
