@@ -3,7 +3,7 @@
 <img src="https://github.com/Mukhriddin19980901/DenseNet/blob/main/dense.png" width="1000" height="500" />
 
 
-  ***DenseNet*** is a deep neural network architecture designed for ***image classification*** tasks . It is characterized by its dense connectivity pattern, where each layer is connected to every other layer in a feed-forward fashion.The architecture was proposed by Gao Huang, Zhuang Liu, Laurens van der Maaten, and Kilian Q. Weinberger. The paper titled "Densely Connected Convolutional Networks" by Gao Huang, Zhuang Liu, Laurens van der Maaten, and Kilian Q. Weinberger was published in January 2017.
+  ***DenseNet*** is a deep neural network architecture designed for ***image classification*** tasks. It is characterized by its dense connectivity pattern, where each layer is connected to every other layer in a feed-forward fashion.The architecture was proposed by Gao Huang, Zhuang Liu, Laurens van der Maaten, and Kilian Q. Weinberger. The paper titled "Densely Connected Convolutional Networks" by Gao Huang, Zhuang Liu, Laurens van der Maaten, and Kilian Q. Weinberger was published in January 2017.
 
   DenseNet introduced a novel connectivity pattern in convolutional neural networks (CNNs), where each layer was densely connected to every other layer in a feed-forward fashion. This dense connectivity facilitated feature reuse and improved the flow of gradients during training, resulting in highly efficient and accurate models.
 
